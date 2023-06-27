@@ -5,7 +5,7 @@ import sys
 import requests
 from Adafruit_IO import MQTTClient
 AIO_USERNAME = "tuanh"
-AIO_KEY = "aio_AELL05qaVvxtcdQZzDiNRGN0qXdf"
+AIO_KEY = ""
 
 global_equation = "x1+x2+x3"
 
